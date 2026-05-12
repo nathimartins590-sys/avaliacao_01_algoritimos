@@ -1,0 +1,24 @@
+//algoritimo "questão 3"
+
+//var
+   //nomes: vet[1..10] de inteiro
+   //l: inteiro
+   //c: inteiro
+   //valor: inteiro
+   //lista: inteiro
+//inicio
+ //l<- 0
+ //c<- 0
+
+ //escreval("entrada de dados")
+  //para l de 1 ate 10 passo 1 faca
+     //para c de 1 ate 10 passo 1 faca
+      //escreval("Digite um valor "[,l,]" , "[,c,]":")
+      //leia(valor)
+      //lista[l,c] <- valor
+     //fimpara
+    //fimpara
+     //escreval("")
+     //escreval("aqui esta os funcionarios")
+    
+//finalalgoritimo

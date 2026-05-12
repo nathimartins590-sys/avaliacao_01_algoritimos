@@ -1,0 +1,15 @@
+//algoritimo "questão 2"
+
+//var
+   //nathalia: inteiro
+//inicio
+    //escreval("digite um nome")
+    //leia(nathalia)
+
+   //se nathalia = verdadeiro entao
+     //escreval("este usuario existe")
+   //senao 
+     //escreval("este usuario não existe")
+   //fimse
+
+//finalalgoritimo
